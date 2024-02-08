@@ -1,4 +1,4 @@
-### Hi there, I'm Islam draz! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=islamdraz&color=blue)</div>
+### Hi there, I'm Islam draz! 👋 
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/islam-draz/)
 
